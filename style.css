@@ -1,0 +1,298 @@
+body{
+    background-color:rgb(243, 241, 241)
+}
+.container{
+    height: 90px;
+    background-color: rgb(77, 108, 165);
+    margin:-10px -10px 0px -10px;
+    
+}
+img{
+    weight:200px;
+    height:78px;
+    bottom:78px;
+    left:120px;
+    position: relative;
+}
+.email{
+left:850px;
+bottom:130px;
+position: relative;
+height:20px;
+}
+.psw{
+left:860px;
+bottom:130px;
+position: relative;
+height:20px;
+}
+.log{
+ left:855px;
+ bottom:130px;
+ position: relative;
+ background-color: rgb(55, 88, 148);
+ color: white;
+ border:none;
+ margin-left: 08px;
+ padding-top: 05px;
+ padding-bottom: 05px;
+ font-size: 14px;
+ font-family: monospace;
+ font-weight: 900;
+ }
+ 
+.first{
+    float:right;
+    bottom:176px;
+    right:387px;
+    position: relative;
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+   
+}
+.second{
+    float:right;
+    bottom:176px;
+    right:134px;
+    position: relative;
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px; 
+}
+a{
+    text-decoration: none;
+    color: rgba(186, 194, 228, 0.507);
+    opacity:0,5;
+    float: right;
+    bottom:130px;
+    left:-50px;
+    position: relative;
+    font-size: 14px;
+  
+}
+a:hover{
+    color: white;
+    text-decoration: underline;
+
+}
+.h1{
+    font-family: arial;
+    color:rgb(70, 69, 66);
+    float: right;
+    font-size: 30px;
+    bottom:110px;
+    right:-20px;
+    position: relative;
+
+}
+.p1{
+    font-style: unset;
+    font-size: 18px;
+    float: right;
+    left:165px;
+    bottom:65px;
+    position: relative;
+}
+.FN{
+    float:right;
+    height:30px;
+    left:355px;
+    position: relative;
+    border-style: double;
+    border-radius:03px;
+    border:1px solid #95a5a6
+
+    
+
+}
+.N{
+    float:right;
+    height:30px;
+    left:720px;
+    position: relative; 
+    border-style: double;
+    border-radius:03px;
+    border:1px solid #95a5a6
+
+}
+.eml{
+    height:30px;
+    width: 365px;
+    border-style: double;
+    left:815px;
+    top:10px;
+    position: relative;
+    border-radius:03px;
+    border:1px solid #95a5a6
+
+}
+.pss{
+    height:30px;
+    width: 365px;
+    border-style: double;
+    border-radius:03px;
+    border:1px solid #95a5a6;
+    left:815px;
+    top:20px;
+    position: relative;
+}
+.bortdey{
+    color: gray;
+    font-style: arial;
+    font-size:20px;
+    left:815px;
+    top:9px;
+    position: relative;
+}
+.nem{
+    left:815px;
+    top:0px;
+    position: relative;
+    
+}
+.n{
+    width:70px;
+    height:30px;
+    border-radius:03px;
+    border:1px solid #95a5a6;
+
+}
+.d{
+    width:70px;
+    height:30px;
+    border-radius:03px;
+    border:1px solid #95a5a6;
+}
+.y{
+    width:70px;
+    height:30px;
+    border-radius:03px;
+    border:1px solid #95a5a6;
+
+}
+.Gender{
+    color: gray;
+    font-style: arial;
+    font-size:20px;
+    left:815px;
+    top:-10px;
+    position: relative;
+
+}
+.gender{
+    font-size: 20px;
+   
+   left:815px;
+    top:9px;
+    position: relative;
+    left:815px;
+    top:-20px;
+
+}
+.pre{
+font-size:10px;
+position: relative;
+    left:805px;
+    top:-20px;
+}
+.saynap{
+
+    position: relative;
+    left:820px;
+    top:-40px;
+   
+
+   
+    
+}
+.sbmt{
+    width:200px;
+    height:40px;
+   display:inline-block;
+   color:white;
+   background-color: rgb(66, 155, 66) ;;
+   font-family: arial;
+   font-weight: bold;
+   font-size: 20px;
+   border:1px solid;
+   border-radius:10px;
+   text-decoration: none;
+   
+}
+.RL{
+    bottom:514px;
+    left:140px;
+    position: relative;
+    font-family: arial;
+    color:rgb(70, 69, 66);
+    font-size: 30px;
+}
+
+.p2{
+    bottom:529px;
+    left:140px;
+    position: relative;
+    font-style: unset;
+    font-size: 18px;
+}
+.skl{
+    bottom:527px;
+    right:80px;
+    
+    position: relative;
+    width:190px;
+    height:190px;
+}
+
+.contain{
+    width:192px;
+    height:50px;
+    background-color:rgb(255, 255, 255);
+    bottom:530px;
+    left:120px;
+    position: relative;
+}
+.nzrn{
+    bottom:590px;
+    left:180px;
+    position: relative;
+    color:rgb(44, 43, 43);
+    font-size: 20px;
+    font-family: Verdana;
+}
+.mavi{
+    color: blue;
+}
+.last{
+    float:right;
+    bottom:450px;
+    right:210px;
+    position: relative;
+    color:rgb(27, 26, 26)
+    
+}
+.mavi:hover{
+    text-decoration: underline;
+}
+.box{
+    width:190px;
+    height:242px;
+    bottom:835px;
+    left:350px;
+    position: relative;
+    background-color:white;
+}
+.account{
+    bottom:895px;
+    left:385px;
+    position: relative;
+    color:rgb(114, 114, 179);
+    font-size: 20px;
+    font-family: Verdana;
+}
+.logo2{
+    bottom:1070px;
+    left:410px;
+    position: relative;
+}
